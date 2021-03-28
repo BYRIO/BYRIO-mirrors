@@ -3,7 +3,7 @@
 * BYRIO x BUPT Network Center
 
 
-* author FrdericDT
+* author FredericDT
 * date 2018/09/25
 
 ## Available Services

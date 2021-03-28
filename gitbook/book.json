@@ -1,0 +1,8 @@
+{
+    "plugins" : [
+        "code",
+        "back-to-top-button",
+        "chapter-fold",
+        "-lunr"
+    ]
+}
